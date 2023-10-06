@@ -1,0 +1,14 @@
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\obj\Debug\net6.0\Tugas PBO TM.GeneratedMSBuildEditorConfig.editorconfig
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\obj\Debug\net6.0\Tugas PBO TM.AssemblyInfoInputs.cache
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\obj\Debug\net6.0\Tugas PBO TM.AssemblyInfo.cs
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\obj\Debug\net6.0\Tugas PBO TM.csproj.CoreCompileInputs.cache
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\bin\Debug\net6.0\Tugas PBO TM.exe
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\bin\Debug\net6.0\Tugas PBO TM.deps.json
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\bin\Debug\net6.0\Tugas PBO TM.runtimeconfig.json
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\bin\Debug\net6.0\Tugas PBO TM.dll
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\bin\Debug\net6.0\Tugas PBO TM.pdb
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\obj\Debug\net6.0\Tugas PBO TM.dll
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\obj\Debug\net6.0\refint\Tugas PBO TM.dll
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\obj\Debug\net6.0\Tugas PBO TM.pdb
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\obj\Debug\net6.0\Tugas PBO TM.genruntimeconfig.cache
+D:\0 SMT 3 GUYS\PBO\code\Tugas PBO TM\Tugas PBO TM\obj\Debug\net6.0\ref\Tugas PBO TM.dll
